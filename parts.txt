@@ -19,6 +19,8 @@ Steps:
 Install python
 open terminal 
 run cd Freenove_4WD_Smart_Car_Kit_for_Raspberry Pi*\Code\Server
+run sudo rm /usr/lib/python3.11/EXTERNALLY-MANAGED
+run pip install picamera2 
 run python car.py
 
 The End of the list. Again, if you have any questions feel free to email me at kiamehr13922014@gmail.com I will get back to you in maximum 2days usually a couple of hours.
