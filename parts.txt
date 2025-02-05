@@ -13,6 +13,14 @@ Raspberry Pi* Active Cooler*
 Lithium ion/Li-ion 18650 3.6 or 3.7Volt batteries(I used Samsung 30Q and make sure to get rechargable)
 18650 Charger (If your's is rechargable which i highly recommended)
 
+Make sure to add car.py to Freenove_4WD_Smart_Car_Kit_for_Raspberry Pi*\Code\Server in order for it to work
+
+Steps:
+Install python
+open terminal 
+run cd Freenove_4WD_Smart_Car_Kit_for_Raspberry Pi*\Code\Server
+run python car.py
+
 The End of the list. Again, if you have any questions feel free to email me at kiamehr13922014@gmail.com I will get back to you in maximum 2days usually a couple of hours.
 Cheers
 
