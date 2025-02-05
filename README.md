@@ -9,7 +9,7 @@ How do I apply this code to my Raspberry Pi*? Note: this has been tested and use
 What if i get an error/have a question? Either email Freenove** at sale@freenove.com or email me at kiamehr13922014@gmail.com(SEE DISCLAIMER).
 
 # Disclamers 
-This is licensed under the CC BY-NC-SA 3.0 (Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License) See LICENSE.txt
+This is licensed under the CC BY-NC-SA 3.0 (Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License) [License website](https://creativecommons.org/licenses/by-nc-sa/3.0/) See LICENSE.txt
 
 ** Copyright © 2016 - 2025 Freenove. All rights reserved.
 *Raspberry Pi is a trademark of Raspberry Pi Ltd
